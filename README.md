@@ -1,6 +1,7 @@
 # Stock Price Direction Prediction
 
-**Transparency Note**: This is an experimental learning project developed with **AI assistance (Claude)**. Created to understand ensemble learning, time-series validation, threshold optimization, and feature engineering for financial data. Not intended for actual trading.
+**Transparency Note**: This is an experimental learning project developed with **AI assistance (Claude)**. 
+Created to understand ensemble learning, time-series validation, threshold optimization, and feature engineering for financial data. Not intended for actual trading.
 
 
 ## Overview
