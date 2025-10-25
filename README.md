@@ -4,13 +4,6 @@
 
 **This project is an experimental educational exercise exploring advanced machine learning techniques for stock price prediction.** The code was developed with AI assistance (Claude) as part of learning ensemble methods, time-series validation, threshold optimization, and feature engineering for financial data.
 
-**Important Disclaimers:**
-- This is a research/learning project, **NOT financial advice**
-- Stock prediction is inherently uncertain and past performance doesn't guarantee future results
-- The model should **NOT be used for actual trading** without extensive additional validation
-- Financial markets are influenced by countless unpredictable factors beyond technical indicators
-
-
 ## 🎯 Project Overview
 
 This project implements a comprehensive stock price direction prediction system using ensemble machine learning approaches. The goal is to predict whether a stock's price will move up or down by more than 1% over the next 3 trading days.
