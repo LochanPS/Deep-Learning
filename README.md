@@ -2,7 +2,7 @@
 
 ## ⚠️ Transparency Note
 
-**This project is an experimental educational exercise exploring advanced machine learning techniques for stock price prediction.** The code was developed with AI assistance (Claude) as part of learning ensemble methods, time-series validation, threshold optimization, and feature engineering for financial data.
+**This project is an experimental educational exercise exploring advanced machine learning techniques for stock price prediction.** The code was developed with **AI assistance (Claude)** as part of learning ensemble methods, time-series validation, threshold optimization, and feature engineering for financial data.
 
 ## 🎯 Project Overview
 
